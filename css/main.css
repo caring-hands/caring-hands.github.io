@@ -1721,8 +1721,8 @@ header .border-img {
 
 #blog_single p {
     margin: 0;
-    color: #a3a3a3;
-    font-size: 16px;
+    color: #000000;
+    font-size: 20px;
     line-height: 35px;
     letter-spacing: 0.5px;
     font-weight: 400;
@@ -2156,7 +2156,7 @@ header .border-img {
         margin-bottom: 30px;
     }
     #blog_single p {
-        font-size: 14px;
+        font-size: 18px;
         line-height: 30px;
         margin-bottom: 30px;
     }
@@ -2265,7 +2265,7 @@ header .border-img {
         font-size: 32px;
     }
     .services p {
-        font-size: 16px;
+        font-size: 17px;
         padding-bottom: 10px;
         padding-right: 0;
     }
@@ -2312,7 +2312,7 @@ header .border-img {
     }
     .section-item p {
         padding-right: 0;
-        font-size: 16px;
+        font-size: 17px;
         padding-bottom: 10px;
     }
     .section-item .btn-primary,
@@ -2515,7 +2515,7 @@ header .border-img {
         padding-bottom: 40px;
     }
     #blog_single p {
-        font-size: 12px;
+        font-size: 17px;
         line-height: 25px;
         margin-bottom: 20px;
     }
@@ -2579,7 +2579,7 @@ header .border-img {
         height: 150px;
     }
     .about .heading h3 {
-        font-size: 16px;
+        font-size: 18px;
     }
     #about-us h5 span {
         padding: 0 5px;
